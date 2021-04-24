@@ -1,0 +1,34 @@
+# Site settings
+title: Chowdown
+email: ak883@me.com 
+description: The plain text recipe database for hackers
+baseurl: "https://akamel001.github.io/chowdown/"
+language: "en"
+lang_direction: "ltr"
+color: "#007FFF"
+github_username:  akamel001
+
+# Build settings
+markdown: kramdown
+
+permalink: /:title:output_ext
+
+collections:
+  components:
+    output: true
+  recipes:
+    output: true
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+translation:
+  en:
+    components: "Components"
+    ingredients: "Ingredients"
+    directions: "Directions"
+    category: "Category"
+    nutritional_information: "Nutritional Information"
+    component_based: 'This is a <strong class="blue">component-based recipe</strong>.'
+    search: "Search"
+    blog: "Blog"
+    subscribe: "Subscribe"
