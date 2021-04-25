@@ -45,5 +45,3 @@ directions:
 - Then flip in large wide pan
 - Sprinkle either fried pine nuts or almond
 ---
-
-Egyptian Shakshuka

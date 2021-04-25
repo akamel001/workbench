@@ -41,5 +41,3 @@ directions:
 - Blend in blender put back in pan
 - On side pan, fry 3 mistika in some butter and add in soup offer blend
 ---
-
-Egyptian Shakshuka

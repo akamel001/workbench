@@ -28,5 +28,3 @@ directions:
 - Cut into cubes and serve.
 - (Optional): To make syrup add 2 cups of water, 2 cups of sugar, lemon juice, and leave it on fire for 5 minutes
 ---
-
-Egyptian Shakshuka
