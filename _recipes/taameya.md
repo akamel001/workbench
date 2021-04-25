@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Ta'ameya"
+title:  "الطعميه"
 image: taameya.jpg
 
 
