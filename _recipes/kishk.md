@@ -21,11 +21,11 @@ ingredients:
 - 2 tbsp coconut oil
 
 directions:
-### Cooking the chicken
-- Place the chopped chicken in a saucepan with onions (save some onions for garnishing later), coconut oil, black pepper, and salt.
-- Roast the chicken for 10 minutes
-- Add the chicken broth and ground rice and leave it on the fire for 10 minutes
-- Add to the soup chicken bouillon, cardamom, and mastic
+- Cooking the chicken
+-- Place the chopped chicken in a saucepan with onions (save some onions for garnishing later), coconut oil, black pepper, and salt.
+-- Roast the chicken for 10 minutes
+-- Add the chicken broth and ground rice and leave it on the fire for 10 minutes
+-- Add to the soup chicken bouillon, cardamom, and mastic
 
 ### Preparing the Kishk Mixture
 - Put the flour, yogurt with a pinch of black pepper and lemon juice in the saucepan and let simmer on the fire until the mixture is thick
